@@ -1,0 +1,48 @@
+963, 910 ;Next button
+698, 845 ;Home button
+5:10 time till end of round
+
+
+Level Up left eye:
+Screen:	132, 1010 (less often used)
+Window:	132, 1010 (default)
+Client:	132, 1010 (recommended)
+Color:	451900 (Red=45 Green=19 Blue=00)
+
+right eye:
+Screen:	218, 960 (less often used)
+Window:	218, 960 (default)
+Client:	218, 960 (recommended)
+Color:	451900 (Red=45 Green=19 Blue=00)
+
+cont button on collection event
+Screen:	958, 654 (less often used)
+Window:	958, 654 (default)
+Client:	958, 654 (recommended)
+Color:	451900 (Red=45 Green=19 Blue=00)
+
+left monky: 2 clicks
+Screen:	821, 533 (less often used)
+Window:	821, 533 (default)
+Client:	821, 533 (recommended)
+Color:	451900 (Red=45 Green=19 Blue=00)
+
+right monky: 2 clicks
+Screen:	1125, 533 (less often used)
+Window:	1125, 533 (default)
+Client:	1125, 533 (recommended)
+Color:	451900 (Red=45 Green=19 Blue=00)
+
+cont cutton 2
+Screen:	962, 1001 (less often used)
+Window:	962, 1001 (default)
+Client:	962, 1001 (recommended)
+Color:	451900 (Red=45 Green=19 Blue=00)
+
+esc 
+
+center of the level
+Screen:	854, 560 (less often used)
+Window:	854, 560 (default)
+Client:	854, 560 (recommended)
+Color:	451900 (Red=45 Green=19 Blue=00)
